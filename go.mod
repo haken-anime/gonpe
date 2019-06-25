@@ -1,5 +1,7 @@
 module github.com/pi9min/gonpe
 
+go 1.12
+
 require (
 	firebase.google.com/go v3.4.0+incompatible
 	github.com/apoydence/onpar v0.0.0-20181125144932-f2f06780798d // indirect
